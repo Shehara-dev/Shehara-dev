@@ -44,7 +44,7 @@ I’m focused on building **efficient, scalable, and visually appealing** full-s
 <!-- ⚙️ Skills Section -->
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode,bootstrap,tailwind,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode,bootstrap,tailwind,postman,springboot" />
 </p>
 
 ---
@@ -60,12 +60,12 @@ Here are some projects I’m proud of:
 <!-- 📊 Stats Section -->
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shehara0&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shehara0&theme=react&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shehara-dev&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shehara-dev&theme=react&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehara0&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shehara-dev&layout=compact&theme=react&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Here are some projects I’m proud of:
 <!-- 🧠 Activity Graph -->
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehara0&theme=react-dark&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shehara-dev&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -87,11 +87,11 @@ Here are some projects I’m proud of:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shehara0&label=Profile+Views&color=00BCD4&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=shehara-dev&label=Profile+Views&color=00BCD4&style=flat-square" alt="profile views" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shehara0&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shehara-dev&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
