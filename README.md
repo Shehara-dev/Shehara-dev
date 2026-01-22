@@ -86,15 +86,6 @@ Here are some projects I’m proud of:
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shehara-dev&label=Profile+Views&color=00BCD4&style=flat-square" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shehara-dev&theme=algolia&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
 
 <p align="center">
   <b>💙 Thanks for stopping by! Let’s connect and build something extraordinary. 🚀</b>
